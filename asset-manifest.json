@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-travel-list/static/css/main.cb23755d.css",
+    "main.js": "/react-travel-list/static/js/main.2e216f93.js",
+    "index.html": "/react-travel-list/index.html",
+    "main.cb23755d.css.map": "/react-travel-list/static/css/main.cb23755d.css.map",
+    "main.2e216f93.js.map": "/react-travel-list/static/js/main.2e216f93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb23755d.css",
+    "static/js/main.2e216f93.js"
+  ]
+}
